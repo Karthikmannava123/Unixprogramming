@@ -1,2 +1,2 @@
 # Unixprogramming
-Class assignment submissions
+Class Assignment submissions
